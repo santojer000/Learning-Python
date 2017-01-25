@@ -15,3 +15,5 @@ print(hello + " " + world + "!")
 
 # Requires the user to press enter to exit the console
 input("\nPress enter to exit...")
+
+# End of Program
